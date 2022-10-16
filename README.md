@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marley M</h1>
-<h3 align="center">A passionate web developer from The Netherlands</h3>
+<h3 align="center">A passionate software developer student from The Netherlands</h3>
 
 - 🌱 I’m currently learning **React**
 
