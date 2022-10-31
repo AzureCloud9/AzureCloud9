@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marley M</h1>
 <h3 align="center">A passionate web developer from The Netherlands</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AzureCloud9?tab=repositories](https://github.com/AzureCloud9?tab=repositories)
 
